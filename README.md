@@ -4,7 +4,7 @@
 
 ## My Goal
 
-In this tutorial we will be diving into more Dart programming concepts and learning how to use open source Flutter packages. By the end of this module, you should be comfortable using Flutter packages and building repeated widgets.
+In this project, I showcased more Dart programming concepts and I used open source Flutter packages and showcased my knowledge on building repeated widgets.
 
 
 ## What I will create
